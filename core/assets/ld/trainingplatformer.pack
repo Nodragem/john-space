@@ -1,0 +1,250 @@
+
+trainingplatformer.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acid_simple
+  rotate: false
+  xy: 515, 653
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+boite
+  rotate: false
+  xy: 259, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+border_rep
+  rotate: false
+  xy: 1, 1
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+border_up
+  rotate: false
+  xy: 812, 879
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+bottle
+  rotate: false
+  xy: 1, 67
+  size: 16, 64
+  orig: 16, 64
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 1, 133
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 515, 849
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 773, 945
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+eau_simple
+  rotate: false
+  xy: 515, 587
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+etoile
+  rotate: false
+  xy: 19, 81
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+etoile
+  rotate: false
+  xy: 773, 851
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+falling
+  rotate: false
+  xy: 259, 157
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 1
+falling
+  rotate: false
+  xy: 549, 807
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 2
+ground_rep
+  rotate: false
+  xy: 525, 653
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+ground_up
+  rotate: false
+  xy: 822, 879
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+herb1_depth1
+  rotate: false
+  xy: 1, 849
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+herb1_depth2
+  rotate: false
+  xy: 1, 719
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+herb1_depth3
+  rotate: false
+  xy: 1, 589
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+herb2_depth1
+  rotate: false
+  xy: 1, 459
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+herb2_depth2
+  rotate: false
+  xy: 1, 329
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+herb2_depth3
+  rotate: false
+  xy: 1, 199
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+john
+  rotate: false
+  xy: 839, 961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 773, 903
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 1
+jump
+  rotate: false
+  xy: 19, 91
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 2
+stand
+  rotate: false
+  xy: 298, 157
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 1
+stand
+  rotate: false
+  xy: 549, 765
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 2
+totem
+  rotate: false
+  xy: 515, 719
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+walk
+  rotate: false
+  xy: 588, 807
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 1
+walk
+  rotate: false
+  xy: 773, 861
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 2
+walk
+  rotate: false
+  xy: 58, 91
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 3
+walk
+  rotate: false
+  xy: 337, 157
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 4
+walk
+  rotate: false
+  xy: 549, 723
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 5
+walk
+  rotate: false
+  xy: 588, 765
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 6
+walk
+  rotate: false
+  xy: 627, 807
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 7
+walk
+  rotate: false
+  xy: 97, 91
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: 8
